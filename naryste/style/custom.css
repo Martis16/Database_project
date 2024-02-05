@@ -1,0 +1,11 @@
+html, body {
+    height:100%;
+}
+
+a {
+	color: rgba(0,0,0,0.6);
+}
+
+a:hover {
+	color: rgba(0,0,0,0.9);
+}
